@@ -77,6 +77,11 @@ div.card.education {
   border-top-style: solid;
   border-top-color: #02b3e4;
 }
+div.card.opensource {
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-top-color: #02b3e4;
+}
 div.card.portfolio {
   border-top-width: 4px;
   border-top-style: solid;
